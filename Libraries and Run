@@ -1,0 +1,3 @@
+Firstly you need install libraries and enviroment (Tensorflow 1.5, Keras 2.2.0, Python 3.7, Numpy ...)
+
+Run the cmd and write "python gui.py".The program will run, from the opened window click the "Çalıştır" button.
